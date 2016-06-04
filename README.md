@@ -1,1 +1,2 @@
-# battrship1
+battleship first programme...
+the basic one 
